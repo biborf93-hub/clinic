@@ -1,0 +1,6 @@
+{
+  "name": "Medical Clinic Appointment System",
+  "description": "A comprehensive full-stack medical clinic appointment booking and management platform with a patient portal and doctor admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
